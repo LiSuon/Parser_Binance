@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/Tinkoff/USDT?fiat=RUB",
+            "payTypes": "TinkoffNew",
+            "tradeType": "BUY",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "TinkoffNew",
+            "tradeType": "SELL",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "RosBankNew",
+            "tradeType": "BUY",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "RosBankNew",
+            "tradeType": "SELL",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "RaiffeisenBank",
+            "tradeType": "BUY",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "RaiffeisenBank",
+            "tradeType": "SELL",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "QIWI",
+            "tradeType": "BUY",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "QIWI",
+            "tradeType": "SELL",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "YandexMoneyNew",
+            "tradeType": "BUY",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "YandexMoneyNew",
+            "tradeType": "SELL",
+            "asset": "USDT"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "TinkoffNew",
+            "tradeType": "BUY",
+            "asset": "BTC"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "TinkoffNew",
+            "tradeType": "SELL",
+            "asset": "BTC"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "RosBankNew",
+            "tradeType": "BUY",
+            "asset": "BTC"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "RosBankNew",
+            "tradeType": "SELL",
+            "asset": "BTC"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "RaiffeisenBank",
+            "tradeType": "BUY",
+            "asset": "BTC"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "RaiffeisenBank",
+            "tradeType": "SELL",
+            "asset": "BTC"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "QIWI",
+            "tradeType": "BUY",
+            "asset": "BTC"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "QIWI",
+            "tradeType": "SELL",
+            "asset": "BTC"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "YandexMoneyNew",
+            "tradeType": "BUY",
+            "asset": "BTC"
+        },
+        {
+            "bnc-uuid": "1325752c-a715-461b-99a5-e4bda1bf6f13",
+            "namesite": "https://p2p.binance.com/ru/trade/sell/USDT?fiat=RUB&payment=Tinkoff",
+            "payTypes": "YandexMoneyNew",
+            "tradeType": "SELL",
+            "asset": "BTC"
+        }
+    ],
+    "total": 248,
+    "success": true
+}
+
